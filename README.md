@@ -1,2 +1,4 @@
 # EMS_snp_mapping
-genetic mapping by seuqncing
+fastq files were not shown here
+genetic mapping by high through-put sequencing
+
